@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/add_post" android:title="Add Post"></item>
+    <item android:id="@+id/slider" android:title="Show Slider"></item>
+    <item android:id="@+id/foodList" android:title="Food List"></item>
+    <item android:id="@+id/viewList" android:title="View List"></item>
+    <item android:id="@+id/logout" android:title="Logout"></item>
+
+
+</menu>
